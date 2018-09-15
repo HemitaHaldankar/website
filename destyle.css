@@ -1,4 +1,5 @@
 
+
 .container
 {
 	margin-top: 500px;
@@ -8,6 +9,7 @@
 	align-items: center;
 
 }
+
 .carousel-caption {
 	position: absolute;
     top: 50%;
@@ -19,4 +21,35 @@
 	 position: absolute;
     top: 8px;
     right: 16px;
+    font-family: bold;
+    color: white;
+}
+h3{
+	font-family: Forte;
+	position: absolute;
+    top: 8px;
+    left: 55px;
+    font-size: 32px;
+    color: white;
+  
+}
+.container-fluid{
+	background-color: #687f91;
+	height: 50px;
+}
+
+
+
+.image-container {
+    position: relative;
+  
+}
+.image-container .after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+    background: rgba(0, 0, 0, .4);
 }
