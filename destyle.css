@@ -1,8 +1,6 @@
-
-
-.container
-{
-	margin-top: 500px;
+.container{
+	margin-top: 600px;
+	background-color: pink;
 }
 .carousel-inner{
 	height:700px; 
@@ -37,12 +35,8 @@ h3{
 	background-color: #687f91;
 	height: 50px;
 }
-
-
-
 .image-container {
     position: relative;
-  
 }
 .image-container .after {
     position: absolute;
@@ -52,4 +46,30 @@ h3{
     height: 100%;
     display: block;
     background: rgba(0, 0, 0, .4);
+}
+.container1
+{
+	text-align: center;
+	margin-top: 5px;
+
+}
+ .img1{
+	margin-top:50px;
+	padding-left: 1000px;
+	position: absolute;
+
+	
+}
+.img2{
+	margin-top:50px;
+	position: absolute;
+	padding-left:490px;
+
+
+}
+.img3{
+	margin-top:50px;
+	padding-right:700px;
+	position: absolute;
+
 }
