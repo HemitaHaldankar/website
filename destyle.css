@@ -1,8 +1,22 @@
 
 #form{
-	margin-top: 1000px;
+	margin-top: 200px;
 	background-color: pink;
 }
+
+.parallax {
+    /* The image used */
+    background-image: url("girl.jpg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+
 .carousel-inner{
 	height:700px; 
 	align-items: center;
@@ -61,10 +75,15 @@ h3{
 	text-align: center;
 }
 .breakfast1{
-   float:right; 
-   margin-bottom: 1000px;
-   
-  
+   float:right;
+   margin-right: 5px; 
+ 
+}
+.lunch1{
+	float: right;
+	padding-top: 235px;
+
+
 }
 .container
 {
