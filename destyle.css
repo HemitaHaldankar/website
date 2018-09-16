@@ -1,5 +1,5 @@
-.container{
-	margin-top: 600px;
+#form{
+	margin-top: 1000px;
 	background-color: pink;
 }
 .carousel-inner{
@@ -47,10 +47,22 @@ h3{
     display: block;
     background: rgba(0, 0, 0, .4);
 }
-.container1
+#About{
+	background-color: pink;
+}
+
+
+#menu{
+	margin-top: 650px;
+}
+#menu h1{
+	text-align: center;
+}
+.container
 {
 	text-align: center;
 	margin-top: 5px;
+	background-color:pink;
 
 }
  .img1{
