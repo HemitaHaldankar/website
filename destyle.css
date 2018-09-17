@@ -37,7 +37,7 @@
     background-size: cover;}
 
 .carousel-inner{
-	height:700px; 
+	height:600px; 
 	align-items: center;
 
 }
@@ -130,4 +130,7 @@ h3{
 	padding-right:700px;
 	position: absolute;
 
+}
+#contact{
+	height: 600px;
 }
