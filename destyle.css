@@ -143,16 +143,31 @@ h3{
     padding: 10px;
     font-size: 20px;
     font-family: bold;
+
 }
-#contact .p2{
-	width: 370px;
-    height: 500px;
-    border: 1px solid blue;
-    box-sizing: border-box;
-    margin-top: 20px;
-    
-    padding: 10px;
-    font-size: 20px;
-    font-family: bold;
+
+
+.flex-container {
+  display: flex;
+  align-items: stretch;
+  background-color: #f1f1f1;
+  height: 500px;
+  width: 1255px;
+  margin-left: 0px;
+  margin-top: 50px;
+
+}
+
+.flex-container > div {
+  background-color:#DBE1E1;
+  color: black;
+  
+  margin: 5px;
+  text-align: center;
+
+  font-size: 20px;
+}
+#contact .container{
+	margin-left: 38px;
 
 }
