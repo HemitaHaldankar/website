@@ -134,3 +134,25 @@ h3{
 #contact{
 	height: 600px;
 }
+#contact .p{
+	width: 370px;
+    height: 500px;
+    border: 1px solid blue;
+    box-sizing: border-box;
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 20px;
+    font-family: bold;
+}
+#contact .p2{
+	width: 370px;
+    height: 500px;
+    border: 1px solid blue;
+    box-sizing: border-box;
+    margin-top: 20px;
+    
+    padding: 10px;
+    font-size: 20px;
+    font-family: bold;
+
+}
