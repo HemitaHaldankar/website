@@ -39,7 +39,14 @@
 .carousel-inner{
 	height:600px; 
 	align-items: center;
-
+}
+.carousel-inner p{
+  font-size: 20px;
+  font-family: Dubai;
+}
+.carousel-inner h1{
+  font-size: 45px;
+  font-family: Dubai;
 }
 
 .carousel-caption {
@@ -68,13 +75,13 @@ h3{
   
 }
 .container-fluid{
-	background-color: #D3DEE1;
+	background-color: #A6AFB2;
 	height: 50px;
 }
  .container-fluid img{
   margin-top: 10px;
   margin-left: 10px;
-  background-color: #D3DEE1;
+  
 }
 .image-container {
     position: relative;
