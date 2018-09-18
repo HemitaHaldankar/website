@@ -48,26 +48,33 @@
     left: 50%;
     transform: translate(-50%, -50%);
 }
-.head
+.container-fluid .head
 {
 	 position: absolute;
     top: 8px;
-    right: 16px;
-    font-family: bold;
-    color: white;
+    right: 25px;
+    font-family: italic;
+    color: black;
+    font-size: 20px;
 }
 h3{
-	font-family: Forte;
+	font-family: Copperplate Gothic;
 	position: absolute;
     top: 8px;
-    left: 55px;
+    left: 66px;
     font-size: 32px;
-    color: white;
+    color: black;
+
   
 }
 .container-fluid{
-	background-color: #687f91;
+	background-color: #D3DEE1;
 	height: 50px;
+}
+ .container-fluid img{
+  margin-top: 10px;
+  margin-left: 10px;
+  background-color: #D3DEE1;
 }
 .image-container {
     position: relative;
